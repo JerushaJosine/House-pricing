@@ -1,4 +1,5 @@
 # House Pricing Thesis
 
 
-This theis investigates the myriad factors that infulence house priceing in urban rea; estate markets. Through comprehensive analysis and modeling techniques, the study aims to uncover the key determinants driving fluctuations in house prices. By examining variables such as location, bhk, bath, total_sqft and housing market dynamics, this research provides valuable insights into the complex dynamic of the housing market and its impact on pricing trends.
+This thesis investigates how to build the real restate price prediction website by taking the dataset from kaggle's bangalore home price and building a model using sklearn and linear regression. secondly, wrote a python flask server that uses the saved model to serve http requests. Thirdly, the website built in by using html, css and javascript that allows user to enter home square ft area, bedrooms etc and it will call python flask server to retrieve the predicted price. 
+
