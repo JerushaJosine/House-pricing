@@ -1,6 +1,6 @@
 # House Pricing 
 
-![creenshots(16)
+![screenshots(16)] (https://github.com/JerushaJosine/House-pricing/blob/master/Screenshot%20(16).png)
 
 This thesis investigates how to build a website for real restate price prediction by using sklearn and linear regression for bangalore home price dataset from kaggle.com. secondly, wrote a python flask server that uses the saved model to serve http requests. Thirdly, the website built in by using html, css and javascript that allows user to enter home square ft area, bedrooms etc and it will call python flask server to retrieve the predicted price. 
 
