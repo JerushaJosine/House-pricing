@@ -13,4 +13,8 @@ Technology and tools used in this project:
 5. Jupyter notebook, visual studio code and pycharm as IDE
 6. Python flask server for http server
 7. HTML/CSS/Javascript for UI
+8. Cloud (AWS EC2)
+9. Inginx server
+
+
 
