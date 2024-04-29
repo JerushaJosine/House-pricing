@@ -1,4 +1,4 @@
-# <h1 align="center"> House Pricing Analysis</h1>
+# <h1 align="center"> House Pricing Prediction/h1>
 
 
 ![Webpage](https://github.com/JerushaJosine/House-pricing/blob/master/webpage)
