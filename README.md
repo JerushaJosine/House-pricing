@@ -9,13 +9,13 @@ During the model building I have done the data loading, cleaning, outlier detect
 
 Technology and tools used in this project:
 
-Python
-Numpy and Pandas for data cleaning
-Matplotlib for data visualization
-Sklearn for model building
-Jupyter notebook, visual studio code and pycharm as IDE
-Python flask server for http server
-HTML/CSS/Javascript for UI
-Cloud (AWS EC2)
-Ignix server
+1. Python
+2. Numpy and Pandas for data cleaning
+3. Matplotlib for data visualization
+4.Sklearn for model building
+5. Jupyter notebook, visual studio code and pycharm as IDE
+6. Python flask server for http server
+7. HTML/CSS/Javascript for UI
+8. Cloud (AWS EC2)
+9. Ignix server
 
