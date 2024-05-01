@@ -17,5 +17,5 @@ Jupyter notebook, visual studio code and pycharm as IDE
 Python flask server for http server
 HTML/CSS/Javascript for UI
 Cloud (AWS EC2)
-Inginx server
+Ignix server
 
